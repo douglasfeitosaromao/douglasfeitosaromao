@@ -11,7 +11,7 @@
 <p>My working thesis: editing a database's parameters is editing how we see, so I spend my days philosophizing about JOINs and OCR pipelines in more or less equal measure.</p>
 </td>
 <td width="36%" valign="top" align="right">
-<img src="./assets/banner-code-thinking.png" alt="Douglas coding and thinking" width="100%" />
+<img src="./assets/banner.png" alt="Douglas coding and thinking" width="100%" />
 </td>
 </tr>
 </table>
@@ -30,7 +30,7 @@
 
 How to make AI agent governance auditable, not just functional.
 
-### <img width="80" src="./assets/collaborate-code-contribution.png" alt="" /> Looking to collaborate on
+### <img width="80" src="./assets/banner-code-thinking.png" alt="" /> Looking to collaborate on
 
 Open-source tooling for digital archives, cultural heritage collections, and archival AI workflows.
 
