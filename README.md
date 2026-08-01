@@ -30,7 +30,7 @@
 
 How to make AI agent governance auditable, not just functional.
 
-### <img width="80" src="./assets/banner-code-thinking.png" alt="" /> Looking to collaborate on
+### <img width="80" src="./assets/banner-code-thinking-2.png" alt="" /> Looking to collaborate on
 
 Open-source tooling for digital archives, cultural heritage collections, and archival AI workflows.
 
