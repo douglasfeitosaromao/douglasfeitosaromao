@@ -10,8 +10,8 @@
 <p>Ph.D. and M.A. in Communication (UFF, with a doctoral research stay at Paris 1 Panthéon-Sorbonne / BnF) &middot; B.A. in Philosophy (USP).</p>
 <p>My working thesis: editing a database's parameters is editing how we see, so I spend my days philosophizing about JOINs and OCR pipelines in more or less equal measure.</p>
 </td>
-<td width="36%" valign="top">
-<img src="./assets/banner-code-thinking.png" alt="Douglas coding and thinking" width="100%" />
+<td width="36%" valign="top" align="right">
+<img src="./assets/banner-code-thinking.png" alt="Douglas coding and thinking" width="80" />
 </td>
 </tr>
 </table>
@@ -20,7 +20,7 @@
 
 ### 🔭 Currently building
 
-<img align="right" width="150" src="./assets/currently-building-astronomy.png" alt="Astronomy illustration" />
+<img align="right" width="80" src="./assets/currently-building-astronomy.png" alt="Astronomy illustration" />
 
 | Project | What it does |
 |---|---|
@@ -32,7 +32,7 @@
 
 ### 🌱 Currently learning
 
-<img align="right" width="150" src="./assets/currently-learning-charts.png" alt="Charts illustration" />
+<img align="right" width="80" src="./assets/currently-learning-charts.png" alt="Charts illustration" />
 
 How to make AI agent governance auditable, not just functional.
 
@@ -40,7 +40,7 @@ How to make AI agent governance auditable, not just functional.
 
 ### 👯 Looking to collaborate on
 
-<img align="right" width="150" src="./assets/collaborate-code-contribution.png" alt="Code contribution illustration" />
+<img align="right" width="80" src="./assets/collaborate-code-contribution.png" alt="Code contribution illustration" />
 
 Open-source tooling for digital archives, cultural heritage collections, and archival AI workflows.
 
@@ -48,7 +48,7 @@ Open-source tooling for digital archives, cultural heritage collections, and arc
 
 ### 🤔 Looking for help with
 
-<img align="right" width="150" src="./assets/help-thinking-mode.png" alt="Thinking mode illustration" />
+<img align="right" width="80" src="./assets/help-thinking-mode.png" alt="Thinking mode illustration" />
 
 Agentic AI evaluation, provenance tracking, and workflow design that survives real-world use - if this is your field, say hi.
 
@@ -56,7 +56,7 @@ Agentic AI evaluation, provenance tracking, and workflow design that survives re
 
 ### 💬 Ask me about
 
-<img align="right" width="150" src="./assets/ask-me-tech-keynote.png" alt="Tech keynote illustration" />
+<img align="right" width="80" src="./assets/ask-me-tech-keynote.png" alt="Tech keynote illustration" />
 
 Database aesthetics, RAG for archives, digital humanities, and 1920/30s German and British photojournalism (yes, really - long story, it's my PhD).
 
@@ -64,7 +64,7 @@ Database aesthetics, RAG for archives, digital humanities, and 1920/30s German a
 
 ### 📫 Find me elsewhere
 
-<img align="right" width="150" src="./assets/find-me-elsewhere-next-adventure.png" alt="Next adventure illustration" />
+<img align="right" width="80" src="./assets/find-me-elsewhere-next-adventure.png" alt="Next adventure illustration" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-romao-/)
 [![Lattes CV](https://img.shields.io/badge/Lattes_CV-1B5E20?style=for-the-badge&logo=readdotcv&logoColor=white)](http://lattes.cnpq.br/9901778793006136)
