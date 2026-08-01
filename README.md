@@ -18,7 +18,7 @@
 
 ---
 
-### <img width="30" src="./assets/currently-building-astronomy.png" alt="" /> Currently building
+### <img width="80" src="./assets/currently-building-astronomy.png" alt="" /> Currently building
 
 | Project | What it does |
 |---|---|
@@ -26,23 +26,23 @@
 | **Gerenciador Acervos Digitais e Pesquisa (ArboreoLab Core)** | Intelligent document-processing pipeline for digital archives (OCR, NER, RAG) |
 | **[endpoints-clio-tainacan](https://github.com/douglasfeitosaromao/endpoints-clio-tainacan)** | REST API for digital collections, self-initiated during FAPESP Technical Training Fellowship 24/16083-7 |
 
-### <img width="30" src="./assets/currently-learning-charts.png" alt="" /> Currently learning
+### <img width="80" src="./assets/currently-learning-charts.png" alt="" /> Currently learning
 
 How to make AI agent governance auditable, not just functional.
 
-### <img width="30" src="./assets/collaborate-code-contribution.png" alt="" /> Looking to collaborate on
+### <img width="80" src="./assets/collaborate-code-contribution.png" alt="" /> Looking to collaborate on
 
 Open-source tooling for digital archives, cultural heritage collections, and archival AI workflows.
 
-### <img width="30" src="./assets/help-thinking-mode.png" alt="" /> Looking for help with
+### <img width="80" src="./assets/help-thinking-mode.png" alt="" /> Looking for help with
 
 Agentic AI evaluation, provenance tracking, and workflow design that survives real-world use - if this is your field, say hi.
 
-### <img width="30" src="./assets/ask-me-tech-keynote.png" alt="" /> Ask me about
+### <img width="80" src="./assets/ask-me-tech-keynote.png" alt="" /> Ask me about
 
 Database aesthetics, RAG for archives, digital humanities, and 1920/30s German and British photojournalism (yes, really - long story, it's my PhD).
 
-### <img width="30" src="./assets/find-me-elsewhere-next-adventure.png" alt="" /> Find me elsewhere
+### <img width="80" src="./assets/find-me-elsewhere-next-adventure.png" alt="" /> Find me elsewhere
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-romao-/)
 [![Lattes CV](https://img.shields.io/badge/Lattes_CV-1B5E20?style=for-the-badge&logo=readdotcv&logoColor=white)](http://lattes.cnpq.br/9901778793006136)
