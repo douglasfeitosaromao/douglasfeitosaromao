@@ -3,22 +3,17 @@
 > *Those who code philosophize; those who philosophize, develop.*
 
 <table>
-	<tr>
-		<td width="64%" valign="top">
-
-		<p>Postdoctoral researcher (FAPESP fellow) at FAU-USP, working at the intersection of <strong>digital humanities, philosophy of technology, and applied AI</strong>.</p>
-
-		<p>I build the systems I also write critically about: intelligent document processing, vector search, RAG, and agentic AI applied to born-digital archives.</p>
-
-		<p>Ph.D. and M.A. in Communication (UFF, with a doctoral research stay at Paris 1 Panthéon-Sorbonne / BnF) &middot; B.A. in Philosophy (USP).</p>
-
-		<p>My working thesis: editing a database's parameters is editing how we see, so I spend my days philosophizing about JOINs and OCR pipelines in more or less equal measure.</p>
-
-		</td>
-		<td width="36%" valign="top">
-			<img src="./assets/banner-code-thinking.png" alt="Douglas coding and thinking" width="100%" />
-		</td>
-	</tr>
+<tr>
+<td width="64%" valign="top">
+<p>Postdoctoral researcher (FAPESP fellow) at FAU-USP, working at the intersection of <strong>digital humanities, philosophy of technology, and applied AI</strong>.</p>
+<p>I build the systems I also write critically about: intelligent document processing, vector search, RAG, and agentic AI applied to born-digital archives.</p>
+<p>Ph.D. and M.A. in Communication (UFF, with a doctoral research stay at Paris 1 Panthéon-Sorbonne / BnF) &middot; B.A. in Philosophy (USP).</p>
+<p>My working thesis: editing a database's parameters is editing how we see, so I spend my days philosophizing about JOINs and OCR pipelines in more or less equal measure.</p>
+</td>
+<td width="36%" valign="top">
+<img src="./assets/banner-code-thinking.png" alt="Douglas coding and thinking" width="100%" />
+</td>
+</tr>
 </table>
 
 ---
