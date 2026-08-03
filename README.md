@@ -44,9 +44,9 @@ Database aesthetics, RAG for archives, digital humanities, and 1920/30s German a
 
 ### <img width="80" align="middle" src="./assets/find-me-elsewhere-next-adventure.png" alt="" /> Find me elsewhere
 
-[![FAPESP](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=FAPESP&logoColor=white)](https://bv.fapesp.br/pt/bolsas/240019/a-estetica-dos-bancos-de-dados-e-a-inteligencia-artificial/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-romao-/)
-[![Lattes CV](https://img.shields.io/badge/Lattes_CV-1B5E20?style=for-the-badge&logo=readdotcv&logoColor=white)](http://lattes.cnpq.br/9901778793006136)
+[![FAPESP](https://img.shields.io/badge/FAPESP-0A66C2?style=for-the-badge&logo=FAPESP&logoColor=white)](https://bv.fapesp.br/pt/bolsas/240019/a-estetica-dos-bancos-de-dados-e-a-inteligencia-artificial/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-romao-/) 
+[![Lattes CV](https://img.shields.io/badge/Lattes_CV-1B5E20?style=for-the-badge&logo=readdotcv&logoColor=white)](http://lattes.cnpq.br/9901778793006136) 
 [![Academia.edu](https://img.shields.io/badge/Academia.edu-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://usp-br.academia.edu/DouglasFeitosaRom%C3%A3o)
 
 ⚡ **Fun fact:** my two academic lives — photojournalism history and AI infrastructure — turned out to be the same question asked twice: who gets to decide what an image means?
